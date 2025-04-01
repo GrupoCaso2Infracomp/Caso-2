@@ -17,6 +17,8 @@ class ManejoMemoria {
         }
     }
 
+    //comment pa
+
     private Frame[] frames;         // Arreglo de marcos disponibles en RAM
     private int numFrames;          // Número total de marcos asignados
     private int clockHand = 0;      // Puntero para el algoritmo Clock
